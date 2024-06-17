@@ -2,7 +2,7 @@
 
 
 def generate_llama3_response(user_input):
-    # Placeholder function to simulate Llama-3's response generation
+   
     responses = {
         "hello": "Hello there!",
         "how are you?": "I'm just a llama-3, I don't have feelings, but thanks for asking!",
